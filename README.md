@@ -1,6 +1,6 @@
 ![About](https://cdn.jsdelivr.net/gh/vtrois/gitmoji-vscode@1/images/about.gif)
 
-English | [简体中文](README.zh-CN.md)
+Changed Messages to work with my [custom config](https://github.com/kaaax0815/config)
 
 ## About
 
@@ -87,6 +87,10 @@ Sample configuration:
   "gitmoji.showEmojiCode": true
 }
 ```
+
+## Credits
+
+All Credits go to [Vtrois](https://github.com/vtrois/)
 
 ## License
 
