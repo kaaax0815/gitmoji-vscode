@@ -26,19 +26,19 @@ let Gitmoji: Array<Emoji> = [
   {
     emoji: "🐛",
     code: ":bug:",
-    description: "Fix a bug",
+    description: "Fix a bug (Patch)",
     description_zh_cn: "修复 BUG",
   },
   {
     emoji: "🚑",
     code: ":ambulance:",
-    description: "Critical hotfix",
+    description: "Critical hotfix (Patch)",
     description_zh_cn: "紧急热修复",
   },
   {
     emoji: "✨",
     code: ":sparkles:",
-    description: "Introduce new features",
+    description: "Introduce new features (Minor)",
     description_zh_cn: "引入新特性",
   },
   {
@@ -56,7 +56,7 @@ let Gitmoji: Array<Emoji> = [
   {
     emoji: "💄",
     code: ":lipstick:",
-    description: "Add or update the UI and style files",
+    description: "Add or update the UI and style files (Patch)",
     description_zh_cn: "新增或更新 UI 样式文件",
   },
   {
@@ -74,7 +74,7 @@ let Gitmoji: Array<Emoji> = [
   {
     emoji: "🔒️",
     code: ":lock:",
-    description: "Fix security issues",
+    description: "Fix security issues (Patch)",
     description_zh_cn: "修复安全问题",
   },
   {
@@ -134,7 +134,7 @@ let Gitmoji: Array<Emoji> = [
   {
     emoji: "♻️",
     code: ":recycle:",
-    description: "Refactor code",
+    description: "Refactor code (Patch)",
     description_zh_cn: "重构代码",
   },
   {
@@ -194,13 +194,13 @@ let Gitmoji: Array<Emoji> = [
   {
     emoji: "📦",
     code: ":package:",
-    description: "Add or update compiled files or packages",
+    description: "Add or update compiled files or packages (Patch)",
     description_zh_cn: "新增或更新已编译的文件或包",
   },
   {
     emoji: "👽️",
     code: ":alien:",
-    description: "Update code due to external API changes",
+    description: "Update code due to external API changes (Patch)",
     description_zh_cn: "由于外部API变化而更新代码",
   },
   {
@@ -218,7 +218,7 @@ let Gitmoji: Array<Emoji> = [
   {
     emoji: "💥",
     code: ":boom:",
-    description: "Introduce breaking changes",
+    description: "Introduce breaking changes (Major)",
     description_zh_cn: "引入重大改变",
   },
   {
