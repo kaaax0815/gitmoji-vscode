@@ -1,3 +1,5 @@
+Not maintained anymore. Use original project instead
+
 ![About](https://cdn.jsdelivr.net/gh/vtrois/gitmoji-vscode@1/images/about.gif)
 
 Changed Messages to work with my [custom config](https://github.com/kaaax0815/config)
